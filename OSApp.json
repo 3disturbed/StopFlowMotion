@@ -1,0 +1,8 @@
+{
+  "name": "StopFlow Motion",
+  "icon": "https://3disturbed.github.io/StopFlowMotion/Icon.png",
+  "link": "https://3disturbed.github.io/StopFlowMotion/",
+  "repo": "https://github.com/3disturbed/StopFlowMotion",
+  "type": "app",
+  "target": "tab"
+}
